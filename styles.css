@@ -79,8 +79,8 @@ h1 {
 }
 
 h2 {
-  color: #19f7fd;
-  font-size: 130%;
+  color: white;
+  font-size: 145%;
   font-family: Bruno Ace, Serif;
   text-decoration: none;
 }
@@ -126,6 +126,20 @@ nav a {
   justify-content: center;
   text-align: center;
   margin: 10px;
+}
+
+.meu-botao {
+  display: inline-block;
+  margin: 10px;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #fff;
+  background-image: linear-gradient(45deg, #19f7fd, #7e78ff, #ea15ff);
+  border-radius: 6px;
+  border: none;
+  transition: background-color 0.3s ease;
 }
 
 /* Estilos para a grade de botões em desktops */
