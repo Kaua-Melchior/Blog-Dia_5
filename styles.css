@@ -79,7 +79,7 @@ h1 {
 }
 
 h2 {
-  color: white;
+  color:#19f7fd;
   font-size: 145%;
   font-family: Bruno Ace, Serif;
   text-decoration: none;
@@ -259,6 +259,10 @@ aside h1{
   color:white;
   text-align: center;
 }
+
+aside h2{
+  color:white;
+   }
 
 
 @media (max-width: 768px) {
