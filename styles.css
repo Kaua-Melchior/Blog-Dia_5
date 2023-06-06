@@ -278,12 +278,15 @@ aside h2{
 
 
   nav a {
-    font-size: 550%
+    font-size: 500%
+
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
   main h{
     font-family: Bebas Neue;
-    font-size: 35px; 
+    font-size: 40px; 
   }
 
   .transparente {
@@ -309,7 +312,7 @@ aside h2{
 
   main h{
     font-family: Bebas Neue;
-    font-size: 35px; 
+    font-size: 40px; 
   }
 
   .transparente {
