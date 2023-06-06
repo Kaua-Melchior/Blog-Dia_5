@@ -277,6 +277,10 @@ aside h2{
   }
 
 
+  nav a {
+    font-size: 200%
+  }
+
   main h{
     font-family: Bebas Neue;
     font-size: 35px; 
@@ -291,6 +295,10 @@ aside h2{
 @media (min-width: 768px) and (max-width:990px) {
   .grid-container {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  nav a {
+    font-size: 200%
   }
 
   .titulo {
