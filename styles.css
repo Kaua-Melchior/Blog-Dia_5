@@ -86,6 +86,7 @@ h2 {
 }
 
 
+
 nav ul {
   list-style: none;
   margin: 0;
@@ -130,7 +131,8 @@ nav a {
 
 .meu-botao {
   display: inline-block;
-  margin: 10px;
+  margin: 6.5%;
+  margin-bottom: 10% ;
   padding: 12px 24px;
   font-size: 16px;
   font-weight: bold;
@@ -222,6 +224,17 @@ main a {
 
 }
 
+center h2{
+  margin: 5%; 
+  margin-top: 10%;
+}
+
+center img{
+  margin: 2%;
+}
+
+
+
 aside {
 
   margin: 3.5%;
@@ -239,8 +252,8 @@ aside {
 }
 
 aside p{
-  
-
+  margin: 2%;
+  text-align: justify;
   font-size: 120%;
   color: white;
 }
