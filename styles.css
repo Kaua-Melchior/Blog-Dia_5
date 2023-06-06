@@ -280,7 +280,12 @@ aside h2{
   .grid-container {
     grid-template-columns: repeat(2, 1fr);
   }
-  
+
+  main h{
+    font-family: Bebas Neue;
+    font-size: 50px; 
+  }
+
   .transparente {
     height: 220px;
     width: 0px;
