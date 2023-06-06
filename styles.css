@@ -270,6 +270,13 @@ aside h2{
     grid-template-columns: repeat(2, 1fr);
   }
 
+  .titulo {
+  
+    margin-left: 6%;
+  margin-right: 6%;
+  }
+
+
   main h{
     font-family: Bebas Neue;
     font-size: 35px; 
@@ -284,6 +291,12 @@ aside h2{
 @media (min-width: 768px) and (max-width:990px) {
   .grid-container {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .titulo {
+  
+    margin-left: 6%;
+  margin-right: 6%;
   }
 
   main h{
